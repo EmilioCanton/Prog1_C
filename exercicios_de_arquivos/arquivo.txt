@@ -1,0 +1,3 @@
+Nome: Emilio
+Idade: 21
+peso: 89.8
